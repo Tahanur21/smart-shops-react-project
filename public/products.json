@@ -1,0 +1,162 @@
+[
+  {
+    "product_id": 1,
+    "product_title": "Apple iPhone 17",
+    "product_image": "https://i.ibb.co/HLztDsvM/apple-iphone-17-2025-12-10-693981e028271.webp",
+    "category": "Smartphones",
+    "price": 799,
+    "description": "Latest generation Apple iPhone with advanced performance and camera.",
+    "specification": [
+      "6.3-inch Super Retina Display",
+      "A19 Chip",
+      "256GB Storage",
+      "Advanced Camera System"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 2,
+    "product_title": "Fantech MH88 Gaming Headset",
+    "product_image": "https://i.ibb.co/XkkbtFK0/fantech-mh88-gaming-headset-500x500.png",
+    "category": "Accessories",
+    "price": 59,
+    "description": "Gaming headset with surround sound and comfortable fit.",
+    "specification": [
+      "7.1 Virtual Surround Sound",
+      "Adjustable Mic",
+      "RGB Lighting",
+      "Cushioned Ear Pads"
+    ],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "product_id": 3,
+    "product_title": "ASUS TUF FX517 Gaming Laptop",
+    "product_image": "https://i.ibb.co/SwW99YWg/FX517-ZC-2558.jpg",
+    "category": "Laptop",
+    "price": 1199,
+    "description": "High-performance gaming laptop with RTX graphics and fast refresh display.",
+    "specification": [
+      "Intel Core i7",
+      "RTX Graphics",
+      "144Hz FHD Display",
+      "RGB Keyboard"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": 4,
+    "product_title": "iPhone 16 Pro Max",
+    "product_image": "https://i.ibb.co/8gZzpfqj/i-Phone-16-Pro-Max.png",
+    "category": "Smartphones",
+    "price": 999,
+    "description": "Previous generation Apple Pro Max with large display and pro camera system.",
+    "specification": [
+      "6.9-inch OLED Display",
+      "A17 Pro Chip",
+      "512GB Storage",
+      "Triple Camera System"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 5,
+    "product_title": "MSI GF63 Thin Gaming Laptop",
+    "product_image": "https://i.ibb.co/Tx6WHzL2/MSI-GF63-Thin-11-UD-243-PH-15-6inch-FHD-TIGER-LAKE-i5-11400-H-8-GB-RAM.png",
+    "category": "Laptop",
+    "price": 899,
+    "description": "Portable gaming laptop with solid performance for casual gaming.",
+    "specification": [
+      "Intel i5 11400H",
+      "15.6-inch FHD",
+      "8GB RAM",
+      "Dedicated GPU"
+    ],
+    "availability": false,
+    "rating": 4.4
+  },
+  {
+    "product_id": 6,
+    "product_title": "OTW 324 Smart TV",
+    "product_image": "https://i.ibb.co/hFcTDzyQ/OTW-324-1080-b.png",
+    "category": "Electronics",
+    "price": 499,
+    "description": "1080p Smart TV with built-in apps and multiple HDMI ports.",
+    "specification": [
+      "1080p Full HD",
+      "Built-in Streaming Apps",
+      "Multiple HDMI",
+      "Slim Bezels"
+    ],
+    "availability": true,
+    "rating": 4.2
+  },
+  {
+    "product_id": 7,
+    "product_title": "Samsung Galaxy S25 Ultra",
+    "product_image": "https://i.ibb.co/S4w15B03/Samsung-Galaxy-S25-Ultra-Titanium-Black-Lrg4.png",
+    "category": "Smartphones",
+    "price": 1099,
+    "description": "Top-tier Samsung flagship with pro camera and powerful performance.",
+    "specification": [
+      "6.9-inch AMOLED",
+      "Snapdragon 8 Elite",
+      "200MP Camera",
+      "S Pen Support"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": 8,
+    "product_title": "Samsung Galaxy A36 5G",
+    "product_image": "https://i.ibb.co/ZpcDs8WG/samsung-galaxy-a36-5g-2025-12-10-693973ac13255.webp",
+    "category": "Smartphones",
+    "price": 449,
+    "description": "Mid-range 5G smartphone with balanced performance.",
+    "specification": [
+      "AMOLED Display",
+      "5G Connectivity",
+      "5000mAh Battery",
+      "Fast Charging"
+    ],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "product_id": 9,
+    "product_title": "Samsung Galaxy S24 Amber Yellow",
+    "product_image": "https://i.ibb.co/0pL77vfr/samsung-galaxy-s24-amber-yellow-Custom-Mac-BD.png",
+    "category": "Smartphones",
+    "price": 899,
+    "description": "Samsung Galaxy S24 smartphone with premium features.",
+    "specification": [
+      "Dynamic AMOLED 2X",
+      "50MP Camera",
+      "Fast Charging",
+      "Premium Design"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": 10,
+    "product_title": "Samsung Galaxy S24 FE",
+    "product_image": "https://i.ibb.co/dJVY5BXJ/samsung-galaxy-s24-fe-2025-12-11-693a9933b8a17.webp",
+    "category": "Smartphones",
+    "price": 829,
+    "description": "Fan Edition Samsung smartphone with robust performance.",
+    "specification": [
+      "AMOLED Display",
+      "Triple Camera",
+      "Long Battery",
+      "5G Connectivity"
+    ],
+    "availability": true,
+    "rating": 4.5
+  }
+]
