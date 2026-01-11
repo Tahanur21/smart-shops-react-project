@@ -1,0 +1,10 @@
+a.active {
+  color: white;
+  border: 2px solid black;
+}
+a.pending {
+  color: blue;
+}
+a.transitioning {
+  view-transition-name: my-transition;
+}

@@ -1,8 +1,13 @@
 
+import { Outlet } from "react-router";
+import Banner from "../Banner/Banner";
+import Categories from "../Categories/Categories";
+
 const Home = () => {
     return (
         <div>
-            <h1>Home</h1>
+            <Banner/>
+            <Categories/>
         </div>
     );
 };
