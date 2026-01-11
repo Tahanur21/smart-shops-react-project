@@ -1,17 +1,18 @@
 [
   {
     "product_id": 1,
-    "category": "smartphones",
+    "category": "Smartphones",
     "slug": "apple-iphone-17"
   },
   {
     "product_id": 2,
-    "category": "accessories",
+    "category": "Accessories",
     "slug": "fantech-mh88-gaming-headset"
   },
   {
     "product_id": 3,
-    "category": "laptop",
+    "category": "Laptop",
     "slug": "asus-tuf-fx517-gaming-laptop"
   }
 ]
+

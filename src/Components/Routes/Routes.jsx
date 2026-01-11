@@ -5,6 +5,8 @@ import Home from "../Pages/Home"
 import Statistics from "../Pages/Statistics"
 import Dashboard from "../Pages/Dashboard"
 import Categories from "../Categories/Categories"
+import Cards from "../Categories/Cards"
+import ErrorHandle from "../ErrorHandle/ErrorHandle"
 
 const routes = createBrowserRouter([
   {
@@ -15,6 +17,19 @@ const routes = createBrowserRouter([
         {
             path: '/',
             Component: Home,
+            loader: ()=> fetch('../../../public/category.json'),
+            children: [
+              {
+                path: '/',
+                Component: Cards,
+                loader: ()=> fetch('../../../public/products.json')
+              },
+               {
+                path: '/cards/:id',
+                Component: Cards,
+                loader: ()=> fetch('../../../public/products.json')
+              }
+            ]
         },
         {
           path: '/statistics',
@@ -23,6 +38,10 @@ const routes = createBrowserRouter([
         {
           path: '/dashboard',
           Component: Dashboard,
+        },
+        {
+          path: '/errorHandle',
+          Component: ErrorHandle,
         }
     ]
   }

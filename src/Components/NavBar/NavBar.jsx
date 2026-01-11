@@ -1,4 +1,4 @@
-import { ShoppingCart } from "lucide-react";
+import { Heart, ShoppingCart } from "lucide-react";
 import { Link, NavLink, useLocation } from "react-router";
 // import './NavBar.css'
 
@@ -80,9 +80,12 @@ const NavBar = () => {
           </li>
         </ul>
       </div>
-      <div className="navbar-end">
-        <button className="hover:border-6 border-gray-600 rounded-full p-1">
+      <div className="navbar-end gap-3">
+        <button className="btn btn-square bg-base-200 hover:border-4 border-gray-300 rounded-full p-1">
           <ShoppingCart size={24} />
+        </button>
+        <button className="btn btn-square bg-base-200 hover:border-4 border-gray-300 rounded-full p-1">
+          <Heart size={24} />
         </button>
       </div>
     </div>

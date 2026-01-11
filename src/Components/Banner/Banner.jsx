@@ -10,7 +10,7 @@ const Banner = () => {
         <button className="btn text-[#9538E2] cursor-pointer rounded-3xl">Shop Now</button>
       </div>
       {/* image */}
-      <div className='w-3/5 bg-transparent border-2 border-white rounded-3xl p-3 top-10'>
+      <div className='w-full bg-transparent border-2 border-white rounded-3xl p-3'>
         <img className='border rounded-3xl' src={banner} alt="" />
       </div>
       </div>
