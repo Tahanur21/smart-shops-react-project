@@ -29,7 +29,7 @@ const Card = ({ product }) => {
         <h2 className="text-lg font-bold">{product_title}</h2>
        <p>price : ${price}</p>
         <div className="card-actions justify-start">
-            <NavLink>
+            <NavLink to={`/cardDetails/${product_id}`}>
           <button className="
           btn text-[#9538E2] border 
           border-[#9538E2] 

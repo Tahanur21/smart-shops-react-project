@@ -10,7 +10,7 @@ const MainLayOut = () => {
             {/* navBar */}
             <div className={
                 loacationPath === '/' ?
-                'mt-4 px-3' : ''
+                'mt-4 px-3' : 'px-3'
 
             }>
             <NavBar/>
